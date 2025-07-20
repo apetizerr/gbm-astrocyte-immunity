@@ -4,7 +4,7 @@
 
 This project aims to reproduce key figures from the paper:
 
-> Faust, T., et al. (2020). *Glioblastoma-instructed astrocytes suppress tumour-specific T cell immunity*. **Nature**. [DOI:10.1038/s41586-020-2780-y](https://doi.org/10.1038/s41586-020-2780-y)
+> Faust, T., et al. (2020). *Glioblastoma-instructed astrocytes suppress tumour-specific T cell immunity*. Nature. 
 
 The study explores how astrocytes in the glioblastoma microenvironment become reprogrammed by tumor cells to suppress cytotoxic T cell responses, thereby contributing to immune evasion and tumor persistence. This project serves as both a technical exercise in figure reproduction and a conceptual deep dive into tumor–glia–immune interactions.
 
