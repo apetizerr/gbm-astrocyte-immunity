@@ -18,8 +18,11 @@ The study explores how astrocytes in the glioblastoma microenvironment become re
 ## Folder Structure
 ```
 ├── data/ # Raw datasets
-├── figures/ # Reproduced figures (PNG, PDF, etc.)
+├── figures/ # Reproduced figures
 ├── scripts/ # Rmd script for the code in the preprocessing and visualization
 ├── README.md # Project overview (this file)
 └── report.html # Final compiled HTML report
 ```
+## Documentation and Usage
+Data downloaded at [NCBI Gene Expression Omnibus](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE246293)
+
