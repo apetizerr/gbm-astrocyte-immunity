@@ -16,9 +16,10 @@ The study explores how astrocytes in the glioblastoma microenvironment become re
 - Evaluate reproducibility and scientific communication in cancer immunology
 
 ## Folder Structure
-
+```
 ├── data/ # Raw datasets
 ├── figures/ # Reproduced figures (PNG, PDF, etc.)
 ├── scripts/ # Rmd script for the code in the preprocessing and visualization
 ├── README.md # Project overview (this file)
 └── report.html # Final compiled HTML report
+```
